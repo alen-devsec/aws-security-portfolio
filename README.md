@@ -1,26 +1,26 @@
 # AWS Cloud Security & DevSecOps Portfolio
 
-Welcome to my security portfolio. I specialize in identifying vulnerabilities in Cloud Infrastructure and providing actionable remediation steps to protect business data.
+Welcome! I am a Cloud Security Enthusiast specializing in AWS infrastructure audits and data protection. This portfolio demonstrates my ability to identify risks and implement security best practices.
 
-## 🛡️ Featured Project: Infrastructure Security Audit
-In this portfolio, you will find real-world simulations of security assessments.
+## 🚀 Featured Projects
 
-### [Case 01: Web Infrastructure Audit](./Case-01-Web-Infrastructure/)
-* **Objective:** Audit a Terraform-based AWS environment for critical security flaws.
-* **Tools Used:** Manual Review, AI-Assisted Analysis, CIS Benchmarks.
-* **Key Findings:** * Publicly accessible S3 buckets.
-  * Insecure SSH access (Port 22 open to the world).
-  * Lack of data-at-rest encryption for EBS volumes.
-* **Deliverable:** A comprehensive [Security Report](./Case-01-Web-Infrastructure/REPORT.md) with step-by-step fix instructions.
+### 1. [Infrastructure Security Audit (Terraform)](./Case-01-Web-Infrastructure/)
+* **Focus:** Identifying misconfigurations in Cloud Infrastructure.
+* **Key Findings:** Public S3 buckets, open SSH ports, and unencrypted EBS volumes.
+* **Deliverables:** Vulnerable IaC code and a professional [Audit Report](./Case-01-Web-Infrastructure/REPORT.md).
+
+### 2. [Cloud Data Protection & Applied Cryptography](./Case-02-Cloud-Data-Protection/)
+* **Focus:** Securing data at rest and in transit using AWS best practices.
+* **Key Topics:** AES-256, SSL/TLS, KMS Management, and PKI.
+* **Status:** Verified via [TryHackMe Introduction to Cryptography](./Case-02-Cloud-Data-Protection/README.md).
 
 ---
 
-## 🛠️ Technical Skills
-* **Cloud:** AWS (S3, EC2, IAM, Security Groups, KMS).
-* **IaC:** Terraform security analysis.
-* **Security:** Audit reporting, Risk Assessment, Encryption (TLS/SSL).
-* **Training:** 70+ Practical Security Labs completed on TryHackMe.
+## 🛠️ Skills & Tools
+* **AWS Security:** IAM, S3, EC2, KMS, Security Groups.
+* **IaC:** Terraform Security Analysis.
+* **Compliance:** CIS Benchmarks, Data Privacy.
+* **Learning Path:** 70+ Labs on TryHackMe (Security Engineer Path).
 
 ## ✉️ Contact
-Ready to secure your cloud? Let's talk!
-[Your LinkedIn or Upwork Profile Link here]
+Ready to secure your AWS environment? Let's connect!
