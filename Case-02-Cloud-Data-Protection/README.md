@@ -1,6 +1,7 @@
 # Case 02: Cloud Data Protection & Applied Cryptography
 Verified Completion: [TryHackMe - Introduction to Cryptography]
-<img width="1920" height="1080" alt="Снимок экрана (312)" src="https://github.com/user-attachments/assets/ea932663-475c-4176-aae2-857067531039" />
+<img width="1920" height="1080" alt="Снимок экрана (311)" src="https://github.com/user-attachments/assets/614fabd0-8624-4866-bcd4-0623a9b9950e" />
+
 
 
 # AWS Cloud Security Best Practices: Applied Cryptography
